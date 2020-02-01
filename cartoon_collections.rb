@@ -2,9 +2,7 @@ def roll_call_dwarves(array)
   # Your code here
   i = 1
   while i < array.length
-    array.each do |names|
-      puts array[i]
-    end
+    puts 
   end
 end
 
