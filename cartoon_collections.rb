@@ -19,7 +19,9 @@ end
 def long_planeteer_calls(array)
   i = 0
   if array.any? {i.length > 4}
-    puts i
+    return true
+  else
+    
 end
 
 def find_the_cheese# code an argument here
