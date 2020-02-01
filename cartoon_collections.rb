@@ -2,7 +2,7 @@ def roll_call_dwarves(array)
   # Your code here
   i = 1
   while i < array.length
-    puts 
+    puts "#{i}. "
   end
 end
 
